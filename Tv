@@ -1,10 +1,5 @@
 Republica dominicana
 
-
-
-#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",~ Dominican Republic TV ~
-http://www.lengua.com/anthems/DominicanRepublic.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="DOMINICAN REPUBLIC",Acento TV
 http://acentotv01.streamprolive.com/hls/live.m3u8
 
@@ -145,8 +140,3 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOMINICAN REPUBLIC",Zol FM
 http://ss6.domint.net:1948/zol_str/vzol/chunklist_w745366436.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="AF: A PLUS" tvg-logo="" group-title=“INVESTIGACION DISCOVEY",LA: A PLUS
-http://link.comstar.tv:6969/4950836/7139684/7398.m3u8
-
-Tv
